@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 速度
 <<<<<<< HEAD
 dsd 
 =======
 dsad 
 w 
+<<<<<<< HEAD
 >>>>>>> dev
+=======
+=======
+ HEAD
+速度大大声
+ 0b7b7bee3498e2dc0eed8fad016f4fc14a21bb37
+>>>>>>> c8bad7c1fcdce326abf78ae3da164b5643ffc177
+>>>>>>> 918169418a3801bce2823e8fa48e03290ec9ac30

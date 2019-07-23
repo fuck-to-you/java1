@@ -1,4 +1,16 @@
+ HEAD
+大声地大声 dddd
+=======
 大声 dddd
+<<<<<<< HEAD
 啥啥啥
 大叔
+<<<<<<< HEAD
+dsd 
+=======
 大大伟大
+>>>>>>> dev
+=======
+大大缩短
+ 0b7b7bee3498e2dc0eed8fad016f4fc14a21bb37
+>>>>>>> 698cd89d842a7cacb976b08fbc29ba7622a85f8e
