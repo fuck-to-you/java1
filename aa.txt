@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 速度
 dsad 
 w 
+=======
+ HEAD
+速度大大声
+ 0b7b7bee3498e2dc0eed8fad016f4fc14a21bb37
+>>>>>>> c8bad7c1fcdce326abf78ae3da164b5643ffc177
